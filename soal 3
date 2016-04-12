@@ -1,0 +1,13 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main()
+{
+    char a;
+
+   for(a = 'A'; a<= 'J'; a=a+1) {
+        cout<<a;
+    }
+    return 0;
+}
