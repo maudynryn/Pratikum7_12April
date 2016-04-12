@@ -1,0 +1,13 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main()
+{
+    int c;
+
+    for (c=0; c<=10; c++) {
+        cout<<c;
+    }
+    return 0;
+}
